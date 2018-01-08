@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": ">=5.4.4",
-        "oro/platform": "1.8.*",
+        "oro/platform": "~1.8.*",
         "beberlei/assert": "2.*",
         "zendframework/zend-mail": "~2.1.5",
         "diamante/email-processing-bundle": "self.version",
